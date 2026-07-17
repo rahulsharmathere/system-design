@@ -1,0 +1,10 @@
+.env
+node_modules
+
+
+
+# to ignore all .env files anywhere:
+# .env
+
+# to ignore all node-modules files anywhere:
+# node_modules/
